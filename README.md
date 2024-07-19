@@ -1,5 +1,5 @@
 # How to start
-1. ```git clone https://github.com/Tom-Ole/colored_screen.git```
+1. ```git clone https://github.com/Tom-Ole/colored_screen.git``` (or download copy the colored_screen.js content)
 2. ```node /server_colored.js```
 
 # How to use
